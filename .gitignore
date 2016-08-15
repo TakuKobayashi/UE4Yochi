@@ -1,8 +1,37 @@
-# Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+*.xcodeproj
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.sln
+SourceArt/**/*.png
+SourceArt/**/*.tga
+Binaries
+Build
+!Build/**/*.ico
+Saved
+Intermediate
+DerivedDataCache
+
+# Compiled Object files
 *.pdb
 *.DS_Store
 
