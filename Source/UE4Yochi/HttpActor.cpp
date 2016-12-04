@@ -16,7 +16,7 @@ AHttpActor::AHttpActor()
 void AHttpActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
+    UE_LOG(LogTemp, Warning, TEXT("output : %s"), L"HttpActorログの内容");
 }
 
 // Called every frame
